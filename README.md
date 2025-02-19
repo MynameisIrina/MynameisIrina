@@ -27,10 +27,10 @@ education:
 technical_background:
 [
   role: "C++ Game Programmer, Ubisoft Mentee"
-  skills: ["C++ 17", "SFML", "Modern C++", "Gameplay Programming", "OOP", "Version Control (Git)", "Debugging and Profiling"]
+  skills: "C++ 17", "SFML", "Modern C++", "Gameplay Programming", "OOP", "Version Control (Git)", "Debugging and Profiling"
 
   role: "Unity C# Developer, Working Student"
-  skills: ["C#", "Unity3D", "UI", "Gameplay Programming", "VR/AR Development", "OOP", "Version Control (Git)"]
+  skills: "C#", "Unity3D", "UI", "Gameplay Programming", "VR/AR Development", "OOP", "Version Control (Git)"
 ]
 
 currently_learning:
