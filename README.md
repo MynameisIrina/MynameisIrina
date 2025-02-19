@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MynameisIrina/MynameisIrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-# A Little Bit About Me and My Interests
 
 name: Irina Chernova
 located_in: Munich, Germany
@@ -28,14 +25,18 @@ education:
 ]
 
 technical_background:
+[
 - role: "C++ Game Programmer, Ubisoft Mentee"
   skills: ["C++ 17", "SFML", "Modern C++", "Gameplay Programming", "OOP", "Version Control (Git)", "Debugging and Profiling"]
 - role: "Unity C# Developer, Working Student"
   skills: ["C#", "Unity3D", "UI", "Gameplay Programming", "VR/AR Development", "OOP", "Version Control (Git)"]
+]
 
 currently_learning:
+[
   - C++
   - Unreal Engine
+]
 
 career_goals: "Seeking a challenging role as a Gameplay Programmer in the AAA game industry."
 ```
