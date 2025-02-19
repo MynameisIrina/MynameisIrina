@@ -16,30 +16,23 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-<div style="background-color: #1E1E1E; color: #FFFFFF; padding: 20px; border-radius: 10px;">
+# A Little Bit About Me and My Interests
 
-## A Little Bit About Me and My Interests
+name: Irina Chernova
+located_in: Munich, Germany
 
-**name:** Irina Chernova <br>
-**located_in:** Munich, Germany <br>
+education:
+  degree: "Bachelor's in Computer Science"
+  specialization: "Games Engineering"
 
-<br>
+fields_of_interest:
+  - Game Development
 
-**education:** <br>
-- Bachelor's in Computer Science: Games Engineering <br>
+technical_background: |
+  # Add details about your experience here.
 
-<br>
-
-**fields_of_interests:** <br>
-- Game Development <br>
-<br>
-
-**technical_background:** <br>
-
-<br>
-
-**currently_learning:** C++ and Unreal Engine <br>
-
-</div>
-
+currently_learning:
+  - C++
+  - Unreal Engine
 ```
+
